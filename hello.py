@@ -1,5 +1,5 @@
-print('hello GIt Tutorial')
+print('==============[hello GIt Tutorial]====================')
 id=input("please Input id=")
 name=input("please imnput name=")
-
+print('------------------------------------------------------')
 print(id+","+name)
